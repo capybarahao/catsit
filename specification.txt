@@ -1,0 +1,10 @@
+
+This cat sit service website is my first ever "handmade" website.
+What has been used:
+Tailwind, for general css. It's very intuitive, can't imagine how it's like to write with traditional css;
+Tsparticles module, for click-sparkling effect;
+Bootstrap, for navigation bar
+
+Problem solve:
+The collision of css class names between Bootstrap and Tailwind: using prefix tw-
+The bug regarding Tsparticles module: using an older version module

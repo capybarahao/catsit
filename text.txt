@@ -1,0 +1,34 @@
+npx tailwindcss -i ./src/input.css -o ./homepage/output.css --watch
+
+Home
+
+Care
+Love won‘t be away when you are not at home!
+Drop-In Visits For Cats visits in your home
+Videos and photos every visit
+A bit of play time with your pet
+Free extra care: hair brush, teeth hygiene
+* Only if pet allowed
+
+
+availability
+location
+Live in Solna, Stockholm
+Ideally we live not far.
+Time
+Flexible, as I work from home.
+Currently not available in 2024 Dec. 15-29
+
+
+
+Price: form
+SEK 200 per visits
+* max 2 pets
+SEK 50 for each additional cat
+
+
+About: me and pet
+My name is Hao, and I'm currently studying here.
+Befriend with my lovely furry keyboard lover for 6 years.
+
+made by Hao with love & coffee
